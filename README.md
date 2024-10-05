@@ -1,22 +1,13 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# A Simple To Do List 
 
-### Goal: Build a Simple Todo List
+A dynamic To Do List that allows you to add chores/tasks, check them off so they're added to the bottom of the list.
 
-### How to submit your code for review:
+### How It's Made
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+HTML, CSS, JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Lesson Learned
+
+How to use inputs and JavaScript to create dynamic checklists. 
+
+![To Do List](https://imgur.com/a/wl2O08K)
