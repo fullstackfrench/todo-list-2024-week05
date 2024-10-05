@@ -10,4 +10,4 @@ HTML, CSS, JavaScript
 
 How to use inputs and JavaScript to create dynamic checklists. 
 
-![To Do List](https://imgur.com/a/wl2O08K)
+![To Do List](https://i.imgur.com/RLwXLfm.png)
